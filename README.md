@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**toktarbayevaaiymgul/toktarbayevaaiymgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving detection rules (Sigma, YARA, Sysmon) and developing small tools.  
+- 🌱 I’m currently learning advanced digital forensics techniques on Windows. 
+- 👯 I’m looking to collaborate on open-source cybersecurity projects and knowledge-sharing initiatives.  
+- 🤔 I’m looking for help with automation for incident response and forensic investigations.  
+- 💬 Ask me about threat hunting, memory & disk forensics.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aiymgul-toktarbayeva-68a52a196/) | [Twitter](https://x.com/aiymgul91521)  
+- 😄 Pronouns: She  
+- ⚡ Fun fact: I enjoy mixing cybersecurity research with learning languages 🌍  
+## 🔎 My Interests  
+- Digital Forensics & Incident Response  
+- Threat Hunting & Detection Engineering  
+- Learning to build Sigma & YARA rules  
+- Understanding SIEM and log analysis  
+- Sharing knowledge and growing with the community  
+✨ This is just the beginning of my journey. I hope to share more projects, ideas, and research in the future! ✨
+🙏 Thank you for visiting my profile!  
