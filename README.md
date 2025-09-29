@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on improving detection rules (Sigma, YARA, Sysmon) and developing small tools.  
 - 🌱 I’m currently learning advanced digital forensics techniques on Windows. 
 - 👯 I’m looking to collaborate on open-source cybersecurity projects and knowledge-sharing initiatives.  
-- 🤔 I’m looking for help with automation for incident response and forensic investigations.  
 - 💬 Ask me about threat hunting, memory & disk forensics.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aiymgul-toktarbayeva-68a52a196/) | [Twitter](https://x.com/aiymgul91521)  
 - 😄 Pronouns: She  
