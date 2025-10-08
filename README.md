@@ -6,7 +6,6 @@
 - 💬 Ask me about threat hunting, memory & disk forensics.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aiymgul-toktarbayeva-68a52a196/) | [Twitter](https://x.com/aiymgul91521)  
 - 😄 Pronouns: She  
-⚡ Fun fact: Along with practice, I also teach cybersecurity at ENU (L.N. Gumilyov Eurasian National University) in Astana 🎓  
 ## 🔎 My Interests  
 - Digital Forensics & Incident Response  
 - Threat Hunting & Detection Engineering  
